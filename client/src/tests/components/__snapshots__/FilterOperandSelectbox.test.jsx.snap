@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: FilterOperandSelectbox renders correctly 1`] = `
+<div
+  className="mb-2 form-row"
+>
+  <div
+    className="ml-3"
+  >
+    <select
+      className="custom-select custom-select-sm"
+      id="column_filter_operand"
+      onChange={[Function]}
+      type="select"
+      value="AND"
+    >
+      <option
+        value="AND"
+      >
+        AND
+      </option>
+      <option
+        value="OR"
+      >
+        OR
+      </option>
+      <option
+        value="AND NOT"
+      >
+        AND NOT
+      </option>
+      <option
+        value="OR NOT"
+      >
+        OR NOT
+      </option>
+    </select>
+  </div>
+</div>
+`;

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: DatabaseViewer DatabaseViewer renders with complex searchExpr 1`] = `ShallowWrapper {}`;
+
+exports[`Component: DatabaseViewer DatabaseViewer renders with complex searchExpr 2`] = `ShallowWrapper {}`;
+
+exports[`Component: DatabaseViewer DatabaseViewer renders with complex searchExpr 3`] = `ShallowWrapper {}`;
+
+exports[`Component: DatabaseViewer DatabaseViewer renders with default props 1`] = `ShallowWrapper {}`;
+
+exports[`Component: DatabaseViewer DatabaseViewer renders with simple searchExpr 1`] = `ShallowWrapper {}`;
+
+exports[`Component: DatabaseViewer DatabaseViewer renders with simple searchExpr 2`] = `ShallowWrapper {}`;

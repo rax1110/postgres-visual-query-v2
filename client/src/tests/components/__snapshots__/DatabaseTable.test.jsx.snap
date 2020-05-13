@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: DatabaseTable BASE TABLE renders with default props 1`] = `ShallowWrapper {}`;
+
+exports[`Component: DatabaseTable FOREIGN renders with default props 1`] = `ShallowWrapper {}`;
+
+exports[`Component: DatabaseTable MATERIALIZED VIEW renders with default props 1`] = `ShallowWrapper {}`;
+
+exports[`Component: DatabaseTable VIEW renders with default props 1`] = `ShallowWrapper {}`;

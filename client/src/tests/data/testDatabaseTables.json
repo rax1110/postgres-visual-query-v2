@@ -1,0 +1,262 @@
+{
+  "test_tables_without_public": [
+    {
+      "table_schema": "information_schema",
+      "table_name": "sql_features",
+      "table_type": "BASE TABLE"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "sql_implementation_info",
+      "table_type": "BASE TABLE"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "sql_languages",
+      "table_type": "BASE TABLE"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "sql_packages",
+      "table_type": "BASE TABLE"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "sql_parts",
+      "table_type": "BASE TABLE"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "sql_sizing",
+      "table_type": "BASE TABLE"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "sql_sizing_profiles",
+      "table_type": "BASE TABLE"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "_pg_foreign_data_wrappers",
+      "table_type": "VIEW"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "_pg_foreign_servers",
+      "table_type": "VIEW"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "_pg_foreign_table_columns",
+      "table_type": "VIEW"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "_pg_foreign_tables",
+      "table_type": "VIEW"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "_pg_user_mappings",
+      "table_type": "VIEW"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "administrable_role_authorizations",
+      "table_type": "VIEW"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "applicable_roles",
+      "table_type": "VIEW"
+    }
+  ],
+  "test_tables_with_public": [
+    {
+      "table_schema": "information_schema",
+      "table_name": "sql_features",
+      "table_type": "BASE TABLE"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "sql_implementation_info",
+      "table_type": "BASE TABLE"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "sql_languages",
+      "table_type": "BASE TABLE"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "sql_packages",
+      "table_type": "BASE TABLE"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "sql_parts",
+      "table_type": "BASE TABLE"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "sql_sizing",
+      "table_type": "BASE TABLE"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "sql_sizing_profiles",
+      "table_type": "BASE TABLE"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "_pg_foreign_data_wrappers",
+      "table_type": "VIEW"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "_pg_foreign_servers",
+      "table_type": "VIEW"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "_pg_foreign_table_columns",
+      "table_type": "VIEW"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "_pg_foreign_tables",
+      "table_type": "VIEW"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "_pg_user_mappings",
+      "table_type": "VIEW"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "administrable_role_authorizations",
+      "table_type": "VIEW"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "applicable_roles",
+      "table_type": "VIEW"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "amet",
+      "table_type": "BASE TABLE"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "asukoht",
+      "table_type": "BASE TABLE"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "isik",
+      "table_type": "BASE TABLE"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "isiku_seisundi_liik",
+      "table_type": "BASE TABLE"
+    }
+  ],
+  "test_columns": [
+    {
+      "table_schema": "information_schema",
+      "table_name": "_pg_foreign_data_wrappers",
+      "column_name": "oid",
+      "ordinal_position": 1,
+      "data_type": "oid"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "_pg_foreign_data_wrappers",
+      "column_name": "fdwowner",
+      "ordinal_position": 2,
+      "data_type": "oid"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "_pg_foreign_data_wrappers",
+      "column_name": "fdwoptions",
+      "ordinal_position": 3,
+      "data_type": "ARRAY"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "_pg_foreign_data_wrappers",
+      "column_name": "foreign_data_wrapper_catalog",
+      "ordinal_position": 4,
+      "data_type": "character varying"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "_pg_foreign_data_wrappers",
+      "column_name": "foreign_data_wrapper_name",
+      "ordinal_position": 5,
+      "data_type": "character varying"
+    },
+    {
+      "table_schema": "information_schema",
+      "table_name": "_pg_foreign_data_wrappers",
+      "column_name": "authorization_identifier",
+      "ordinal_position": 6,
+      "data_type": "character varying"
+    }
+  ],
+  "test_constraints": [
+    {
+      "constraint_name": "pk_tootaja_seisundi_liik",
+      "constraint_type": "PRIMARY KEY",
+      "table_schema": "public",
+      "table_name": "tootaja_seisundi_liik",
+      "column_name": "tootaja_seisundi_liik_kood",
+      "foreign_table_schema": "public",
+      "foreign_table_name": "tootaja_seisundi_liik",
+      "foreign_column_name": "tootaja_seisundi_liik_kood"
+    },
+    {
+      "constraint_name": "pk_teekate",
+      "constraint_type": "PRIMARY KEY",
+      "table_schema": "public",
+      "table_name": "teekate",
+      "column_name": "teekatte_kood",
+      "foreign_table_schema": "public",
+      "foreign_table_name": "teekate",
+      "foreign_column_name": "teekatte_kood"
+    },
+    {
+      "constraint_name": "pk_riik",
+      "constraint_type": "PRIMARY KEY",
+      "table_schema": "public",
+      "table_name": "riik",
+      "column_name": "riik_kood",
+      "foreign_table_schema": "public",
+      "foreign_table_name": "riik",
+      "foreign_column_name": "riik_kood"
+    },
+    {
+      "constraint_name": "pk_parklakoha_seisundi_liik",
+      "constraint_type": "PRIMARY KEY",
+      "table_schema": "public",
+      "table_name": "parklakoha_seisundi_liik",
+      "column_name": "parklakoha_seisundi_liik_kood",
+      "foreign_table_schema": "public",
+      "foreign_table_name": "parklakoha_seisundi_liik",
+      "foreign_column_name": "parklakoha_seisundi_liik_kood"
+    },
+    {
+      "constraint_name": "pk_parklakoha_kategooria_tyyp",
+      "constraint_type": "PRIMARY KEY",
+      "table_schema": "public",
+      "table_name": "parklakoha_kategooria_tyyp",
+      "column_name": "parklakoha_kategooria_tyyp_kood",
+      "foreign_table_schema": "public",
+      "foreign_table_name": "parklakoha_kategooria_tyyp",
+      "foreign_column_name": "parklakoha_kategooria_tyyp_kood"
+    }
+  ]
+}

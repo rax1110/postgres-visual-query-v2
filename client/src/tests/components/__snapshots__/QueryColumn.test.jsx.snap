@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: QueryColumn QueryColumn renders with default props 1`] = `ShallowWrapper {}`;

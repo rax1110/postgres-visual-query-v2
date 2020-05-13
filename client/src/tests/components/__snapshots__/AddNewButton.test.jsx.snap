@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: AddNewButton renders correctly 1`] = `
+<button
+  aria-label={null}
+  className="btn btn-outline-info"
+  id=""
+  onClick={[Function]}
+  type="button"
+/>
+`;

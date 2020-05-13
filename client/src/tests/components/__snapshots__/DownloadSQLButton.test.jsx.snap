@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: DownloadSQLButton DownloadSQLButton click with navigator.msSaveBlob 1`] = `ShallowWrapper {}`;
+
+exports[`Component: DownloadSQLButton DownloadSQLButton click without navigator.msSaveBlob 1`] = `ShallowWrapper {}`;
+
+exports[`Component: DownloadSQLButton DownloadSQLButton renders with default props 1`] = `ShallowWrapper {}`;

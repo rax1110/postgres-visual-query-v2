@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: NavBarQueryTabs renders correctly 1`] = `
+Array [
+  <div
+    className="pr-1 pt-1 pb-1"
+  >
+    <button
+      aria-label={null}
+      className="btn-sm btn-light btn-outline-secondary btn btn-secondary"
+      onClick={[Function]}
+      type="button"
+      value="Query 1"
+    >
+      <a
+        className="p-0 d-inline nav-link"
+        onClick={[Function]}
+      >
+        Query 1
+      </a>
+    </button>
+  </div>,
+  <div
+    className="pr-1 pt-1 pb-1"
+  >
+    <button
+      aria-label={null}
+      className="btn-sm btn-secondary btn btn-secondary"
+      onClick={[Function]}
+      type="button"
+      value="Query 2"
+    >
+      <a
+        className="p-0 d-inline nav-link"
+        onClick={[Function]}
+      >
+        Query 2
+      </a>
+    </button>
+  </div>,
+]
+`;

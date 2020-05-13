@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: SetList SetList renders with default components 1`] = `ShallowWrapper {}`;

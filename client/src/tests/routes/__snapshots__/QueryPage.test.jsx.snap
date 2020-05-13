@@ -1,0 +1,143 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Route: QueryPage QueryPage renders with default props 1`] = `
+<div
+  className="container-fluid"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="py-2 vh-100 d-flex bg-light col-sm-2"
+    >
+      <div
+        className="d-flex flex-column w-100"
+      >
+        <div
+          className=""
+        >
+          LanguageSwitcher
+          DisconnectButton
+        </div>
+        SchemaSelector
+        SearchBar
+        <h5
+          className="mt-2"
+        >
+          Tables
+        </h5>
+        <div
+          className="d-flex flex-fill"
+        >
+          DatabaseViewer
+        </div>
+      </div>
+    </div>
+    <div
+      className="pr-0 col-sm-10"
+    >
+      <div
+        style={
+          Object {
+            "height": "100%",
+            "overflow": "hidden",
+            "position": "relative",
+            "width": "100%",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "WebkitOverflowScrolling": "touch",
+              "bottom": 0,
+              "left": 0,
+              "marginBottom": 0,
+              "marginRight": 0,
+              "overflow": "scroll",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            }
+          }
+        >
+          <div
+            className="mt-0 pr-2"
+          >
+            NavBar
+            <div
+              style={
+                Object {
+                  "minHeight": "40vh",
+                }
+              }
+            />
+            QueryTabs
+            <div
+              className="my-2"
+            >
+              QueryButton
+              DeleteQueryButton
+              DownloadSQLButton
+              DownloadCSVButton
+            </div>
+            ResultTabs
+          </div>
+        </div>
+        <div
+          style={
+            Object {
+              "borderRadius": 3,
+              "bottom": 2,
+              "display": "none",
+              "height": 6,
+              "left": 2,
+              "position": "absolute",
+              "right": 2,
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "backgroundColor": "rgba(0,0,0,.2)",
+                "borderRadius": "inherit",
+                "cursor": "pointer",
+                "display": "block",
+                "height": "100%",
+                "position": "relative",
+              }
+            }
+          />
+        </div>
+        <div
+          style={
+            Object {
+              "borderRadius": 3,
+              "bottom": 2,
+              "display": "none",
+              "position": "absolute",
+              "right": 2,
+              "top": 2,
+              "width": 6,
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "backgroundColor": "rgba(0,0,0,.2)",
+                "borderRadius": "inherit",
+                "cursor": "pointer",
+                "display": "block",
+                "position": "relative",
+                "width": "100%",
+              }
+            }
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

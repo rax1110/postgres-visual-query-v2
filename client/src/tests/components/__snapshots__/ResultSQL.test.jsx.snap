@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: ResultSQL ResultSQL renders with default props 1`] = `ShallowWrapper {}`;

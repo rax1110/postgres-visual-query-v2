@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: DownloadCSVButton Disconnect button renders with default props 1`] = `ShallowWrapper {}`;
+
+exports[`Component: DownloadCSVButton Disconnect button renders with result 1`] = `ShallowWrapper {}`;

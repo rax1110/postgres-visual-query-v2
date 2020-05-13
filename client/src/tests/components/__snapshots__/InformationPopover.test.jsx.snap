@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: InformationPopover renders correctly 1`] = `
+<div>
+  <button
+    aria-label={null}
+    className="btn-sm btn-light btn-outline-secondary btn btn-secondary btn-sm"
+    id="infoPopover"
+    onClick={[Function]}
+    style={
+      Object {
+        "borderRadius": "1rem",
+        "fontSize": "1rem",
+        "fontWeight": "600",
+        "height": "2rem",
+        "marginRight": "3rem",
+        "width": "2rem",
+      }
+    }
+    type="button"
+  >
+    ?
+  </button>
+</div>
+`;

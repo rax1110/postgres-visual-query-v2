@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: NavBarQueryTab renders correctly 1`] = `
+<div
+  className="pr-1 pt-1 pb-1"
+>
+  <button
+    aria-label={null}
+    className="btn-sm btn-light btn-outline-secondary btn btn-secondary"
+    onClick={[Function]}
+    type="button"
+  >
+    <a
+      className="p-0 d-inline nav-link"
+      onClick={[Function]}
+    />
+  </button>
+</div>
+`;
