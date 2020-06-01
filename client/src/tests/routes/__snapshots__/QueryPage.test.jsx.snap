@@ -78,8 +78,6 @@ exports[`Route: QueryPage QueryPage renders with default props 1`] = `
             >
               QueryButton
               DeleteQueryButton
-              DownloadSQLButton
-              DownloadCSVButton
             </div>
             ResultTabs
           </div>

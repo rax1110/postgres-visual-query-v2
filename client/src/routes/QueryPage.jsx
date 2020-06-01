@@ -57,8 +57,14 @@ export const QueryBuilder = (props) => {
       <div className="my-2">
         <QueryButton queryValid={props.queryValid} />
         {showDeleteBtn() && <DeleteQueryButton />}
-        <DownloadSQLButton />
-        <DownloadCSVButton />
+
+        {props.tables.length ?
+        <>
+          <DownloadSQLButton />
+          <DownloadCSVButton />
+        </> : null
+        }
+
       </div>
       {!props.queryValid && (
         <Alert color="danger" className="w-25">
